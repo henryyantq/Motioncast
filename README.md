@@ -3,4 +3,6 @@
 
 本人的联系方式：1580955042@qq.com
 
+Telegram技术讨论群：https://t.me/motioncast_chat
+
 ![image](https://user-images.githubusercontent.com/20149275/117971091-05c39900-b35c-11eb-8f04-69ad9465c26b.png)
